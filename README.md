@@ -1,6 +1,6 @@
 # Hola, soy Leo 👋
 
-**Backend Developer → AI Engineer | FastAPI · Docker · LLMs | Building AI-integrated APIs**
+**Backend Developer | FastAPI · Docker · PostgreSQL | Transitioning to AI Engineering**
 
 Vengo del mundo del diagnóstico técnico y la resolución de problemas complejos.
 Ahora aplico esa misma lógica deductiva para construir APIs con IA integrada.
@@ -36,7 +36,7 @@ API REST de producción con autenticación JWT, arquitectura de 6 capas y 12 tes
 
 - Arquitectura de software con sistemas a escala — Michael Pogrebinsky (Udemy)
 - Patrones RAG, LLMs y agentes de IA aplicados a backends
-- Camino hacia AI Engineer en 3 meses
+- Camino hacia AI Engineer
 
 ---
 
