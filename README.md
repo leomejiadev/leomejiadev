@@ -1,4 +1,5 @@
 # Hola, soy Leo 👋
+---
 
 **Backend Developer | FastAPI · Docker · PostgreSQL | Transitioning to AI Engineering**
 
