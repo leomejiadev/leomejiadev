@@ -30,15 +30,3 @@ API REST de producción con autenticación JWT, arquitectura de 6 capas y 12 tes
 > Arquitectura: Endpoints → Schemas → Dependencies → Services → Repositories → Models
 
 ---
-
-### 📚 Aprendizaje actual
-
-- Arquitectura de software con sistemas a escala — Michael Pogrebinsky (Udemy)
-- Patrones RAG, LLMs y agentes de IA aplicados a backends
-- Camino hacia AI Engineer
-
----
-
-### 📫 Contacto
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU-PERFIL)
