@@ -28,5 +28,3 @@ API REST de producción con autenticación JWT, arquitectura de 6 capas y 12 tes
 `FastAPI` · `SQLModel` · `PostgreSQL` · `Docker` · `Alembic` · `Railway`
 
 > Arquitectura: Endpoints → Schemas → Dependencies → Services → Repositories → Models
-
----
