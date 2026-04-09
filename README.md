@@ -4,7 +4,6 @@
 
 **Arquitectura limpia, decisiones justificadas, código que otros pueden mantener.**
 
----
 
 ### 🛠️ Stack tecnológico
 
@@ -17,7 +16,6 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
 
----
 
 ### 🚀 Proyectos
 
