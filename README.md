@@ -1,8 +1,8 @@
 # Hola, soy Leo 👋
 
-**Python Backend Developer → AI Engineering
+**Python Backend Developer → AI Engineering**
 
-Arquitectura limpia, decisiones justificadas, código que otros pueden mantener.**
+**Arquitectura limpia, decisiones justificadas, código que otros pueden mantener.**
 
 ---
 
