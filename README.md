@@ -1,10 +1,8 @@
 # Hola, soy Leo 👋
 
-**Backend Developer | FastAPI · Docker · PostgreSQL | Transitioning to AI Engineering**
+**Python Backend Developer → AI Engineering
 
-Vengo del mundo del diagnóstico técnico y la resolución de problemas complejos.
-Ahora aplico esa misma lógica deductiva para construir APIs con IA integrada.
-Mi foco actual: arquitectura de software, sistemas con LLMs en producción y razonamiento arquitectónico.
+Arquitectura limpia, decisiones justificadas, código que otros pueden mantener.**
 
 ---
 
@@ -26,5 +24,3 @@ Mi foco actual: arquitectura de software, sistemas con LLMs en producción y raz
 **[summaries-api](https://github.com/TU-USUARIO/summaries-api)**
 API REST de producción con autenticación JWT, arquitectura de 6 capas y 12 tests de integración pasando.
 `FastAPI` · `SQLModel` · `PostgreSQL` · `Docker` · `Alembic` · `Railway`
-
-> Arquitectura: Endpoints → Schemas → Dependencies → Services → Repositories → Models
