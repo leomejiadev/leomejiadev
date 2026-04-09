@@ -15,10 +15,3 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
-
-
-### 🚀 Proyectos
-
-**[summaries-api](https://github.com/TU-USUARIO/summaries-api)**
-API REST de producción con autenticación JWT, arquitectura de 6 capas y 12 tests de integración pasando.
-`FastAPI` · `SQLModel` · `PostgreSQL` · `Docker` · `Alembic` · `Railway`
